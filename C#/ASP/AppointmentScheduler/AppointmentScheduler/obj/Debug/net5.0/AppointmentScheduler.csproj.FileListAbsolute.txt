@@ -101,7 +101,6 @@ D:\Users\Dan\source\repos\AppointmentScheduler\AppointmentScheduler\bin\Debug\ne
 D:\Users\Dan\source\repos\AppointmentScheduler\AppointmentScheduler\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
 D:\Users\Dan\source\repos\AppointmentScheduler\AppointmentScheduler\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
 D:\Users\Dan\source\repos\AppointmentScheduler\AppointmentScheduler\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
-D:\Users\Dan\source\repos\AppointmentScheduler\AppointmentScheduler\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
 D:\Users\Dan\source\repos\AppointmentScheduler\AppointmentScheduler\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
 D:\Users\Dan\source\repos\AppointmentScheduler\AppointmentScheduler\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
 D:\Users\Dan\source\repos\AppointmentScheduler\AppointmentScheduler\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
@@ -436,3 +435,9 @@ D:\Users\Dan\source\repos\AppointmentScheduler\AppointmentScheduler\bin\Debug\ne
 D:\Users\Dan\source\repos\AppointmentScheduler\AppointmentScheduler\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
 D:\Users\Dan\source\repos\AppointmentScheduler\AppointmentScheduler\obj\Debug\net5.0\Razor\Views\Appointment\Index.cshtml.g.cs
 D:\Users\Dan\source\repos\AppointmentScheduler\AppointmentScheduler\obj\Debug\net5.0\Razor\Views\Shared\_AddEditAppointment.cshtml.g.cs
+D:\Users\Dan\source\repos\AppointmentScheduler\AppointmentScheduler\bin\Debug\net5.0\AppointmentScheduler.StaticWebAssets.xml
+D:\Users\Dan\source\repos\AppointmentScheduler\AppointmentScheduler\bin\Debug\net5.0\Mailjet.Client.dll
+D:\Users\Dan\source\repos\AppointmentScheduler\AppointmentScheduler\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Users\Dan\source\repos\AppointmentScheduler\AppointmentScheduler\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Users\Dan\source\repos\AppointmentScheduler\AppointmentScheduler\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Users\Dan\source\repos\AppointmentScheduler\AppointmentScheduler\obj\Debug\net5.0\Razor\Views\Home\AccessDenied.cshtml.g.cs
